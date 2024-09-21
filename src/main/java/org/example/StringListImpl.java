@@ -1,8 +1,8 @@
 package org.example;
 
+import org.example.exception.ElementNotFoundException;
 import org.jetbrains.annotations.NotNull;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 
 public class StringListImpl implements StringList {
